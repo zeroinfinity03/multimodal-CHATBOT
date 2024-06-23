@@ -87,5 +87,5 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
 
 For any questions, please contact me at:
 
-- Email: leonsander.consulting@gmail.com
-- Twitter: [@leonsanderai](https://twitter.com/leonsanderai)
+- Email: zeroinfinity03@gmail.com
+
